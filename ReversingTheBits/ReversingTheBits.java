@@ -1,4 +1,3 @@
-package ReversingTheBits;
 import java.util.Scanner;
 
 public class ReversingTheBits {
